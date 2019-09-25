@@ -4,4 +4,4 @@ This repo can be used as a starting point for a new tab chrome extension. It inc
 
 ## How to use
 
-Fork this repo and override `newtab.html`. To preview the new tab in chrome you‘ll need to load the extension in Chrome. For more info check out the official [getting started guide](https://developers.chrome.com/extensions/getstarted).
+Fork this repo (or click `Use this template`). To preview the new tab in chrome you‘ll need to load the extension in Chrome. For more info on this process check out the official [getting started guide](https://developers.chrome.com/extensions/getstarted).
